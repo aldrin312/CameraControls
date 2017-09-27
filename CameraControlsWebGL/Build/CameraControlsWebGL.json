@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CameraControlsWebGL.data.unityweb",
+"asmCodeUrl": "CameraControlsWebGL.asm.code.unityweb",
+"asmMemoryUrl": "CameraControlsWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "CameraControlsWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
